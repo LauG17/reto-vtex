@@ -1,0 +1,92 @@
+.title-infoClientes {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    padding: 0 8px;
+    margin: 16px 0;
+    color: #4b4d53;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.content {
+    height: 390px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+ 
+.addclientes {
+    width: 1050px;
+    border: 1px solid #C4EEFF;
+    border-radius: 5px;
+    margin: 16px 0;
+    padding: 0 8px;
+    background-color: #F2FCFF;
+}
+
+.title-form {
+    font-size: 22px;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+    color: #000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.subtitle-form {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0 5pc;
+    color: #000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text-form {
+    font-size: 14px;
+    padding: 0 5.5pc;
+    color: #000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+label {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0 8px 0 6pc;
+    font-size: 14px;
+}
+
+input {
+    border: 1px solid #C4EEFF;
+    border-radius: 5px;
+    background-color: #F2FCFF;   
+    width: 200px;
+    height: 20px;
+}
+
+input#age {
+    margin-left: 1.5pc;
+}
+
+input#birthdate {
+    width: 120px;
+    text-align: center;
+}
+
+.form-Addclientes div {
+    margin: 15px 0;
+}
+
+.button-Addclientes {
+    justify-content: center;
+    display: flex;
+}
+
+.button-Addclientes input {
+    border-radius: 20px;
+    background-color: #00B0FF;
+    border: 1px solid #00B0FF;
+    width: 150px;
+    height: 25px;
+    color: #fff;
+    cursor: pointer;
+}
